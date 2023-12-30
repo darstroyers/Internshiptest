@@ -1,1 +1,1 @@
-.Zip merupakan aplikasi Jawaban internship
+.zip merupakan aplikasi Jawaban internship untuk Student List
